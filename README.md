@@ -17,13 +17,13 @@
 配置文件在 /var/svn/conf
 --------------------------------------------------------------------------------------------------------
 auths           #权限配置管理
-passwd          SVN的用户名和密码
+passwd          #SVN的用户名和密码
 svnserve.conf   #SVN的配置信息
 
 auths 的配置
 --------------------------------------------------------------------------------------------------------
-[/]           项目路径如果全路径，则直接写"/",否则[/项目/项目01]
-username=rw   读写的权限
+[/]             #项目路径如果全路径，则直接写"/",否则[/项目/项目01]
+username=rw     #读写的权限
 
 passwd 的配置
 --------------------------------------------------------------------------------------------------------
@@ -48,13 +48,13 @@ authz-db = authz
 
 * `启动服务配置`
 ```Shell
-chkconfig httpd on [设置apache为自启动]
-chkconfig mysqld on [mysqld服务]
-service httpd start [自启动 httpd 服务]
-service mysqld start [自启动mysqld服务]
+chkconfig httpd on    #[设置apache为自启动]
+chkconfig mysqld on   #[mysqld服务]
+service httpd start   #[自启动 httpd 服务]
+service mysqld start  #[自启动mysqld服务]
 ```
 
 * `设置mysql数据库root帐号密码`
 ```Shell
-mysqladmin -u root password ‘新密码' [引号内填密码]
+mysqladmin -u root password ‘新密码' #[引号内填密码]
 ```
