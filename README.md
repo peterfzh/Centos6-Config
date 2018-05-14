@@ -5,7 +5,7 @@
 [SVN的配置管理](https://github.com/peterfzh/Centos6-Config/blob/master/Conf/%E9%85%8D%E7%BD%AESVN.md)
 
 ### 配置Apache+php+Mysql
-[APACHE PHP MYSQL配置管理](https://github.com/peterfzh/Centos6-Config/blob/master/Conf/%E9%85%8D%E7%BD%AEApache%2Bphp%2BMysql.md)
+[APACHE PHP MYSQL配置管理](https://github.com/peterfzh/Centos6-Config/blob/master/Conf/Centos/%E9%85%8D%E7%BD%AEApache%2Bphp%2BMysql.md)
 
 
 ### 防火墙的配置和管理
