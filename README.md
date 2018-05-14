@@ -14,10 +14,16 @@
 
 * `配置SVN信息`
 ```Shell
-配置文件在 /var/svn/conf
+#### 配置文件在 /var/svn/conf
 
 auths  #权限配置管理
 passwd #SVN的用户名和密码
 svnserve.conf #SVN的配置信息
+
+#### passwd 的配置
+[/]	 项目路径如果全路径，则直接写"/",否则[/项目/项目01]
+username=password
+
+
 
 ```
