@@ -1,2 +1,2 @@
 # Centos6-Config
-Centos Config informations
+SVN的创建和配置管理
