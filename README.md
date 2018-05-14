@@ -13,3 +13,6 @@
 
 ### Memcached
 [memcached](https://github.com/peterfzh/Centos6-Config/blob/master/Conf/Memcache/centos6%20yum%E5%AE%89%E8%A3%85memcached%E5%8F%8Aphp%20memcache%E6%89%A9%E5%B1%95.md)
+
+### 服务器常用统计数据
+[服务器常用统计数据] (https://github.com/peterfzh/Centos6-Config/blob/master/Conf/Centos/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE.md)
