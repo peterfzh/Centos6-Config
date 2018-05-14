@@ -39,7 +39,7 @@ php -m|grep memcache
 2.$ lsof -i tcp:11211  
 3.COMMAND    PID      USER   FD   TYPE   DEVICE SIZE/OFF NODE NAME  
 4.memcached 3399 memcached   26u  IPv4 12677364      0t0  TCP *:memcache (LISTEN)  
-5.memcached 3399 memcached   27u  IPv6 12677365      0t0  TCP *:memcache (LISTEN)</span>  
+5.memcached 3399 memcached   27u  IPv6 12677365      0t0  TCP *:memcache (LISTEN)
 
 ```
 
