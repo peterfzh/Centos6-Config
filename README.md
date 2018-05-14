@@ -9,4 +9,4 @@
 
 ## 开发常用的网址信息
 [[Unicode编码]](http://tool.chinaz.com/tools/unicode.aspx)       [[LayerAPI文档]](http://layer.layui.com/api.html)       [[CSS代码格式化]](http://tool.lanrentuku.com/cssformat/)       [[百度静态资源公共库]](http://cdn.code.baidu.com/)       [[在线进制转换]](https://tool.lu/hexconvert/)       [[artDialog]](http://aui.github.io/artDialog/doc/index.html)     [[字体图标]](http://fontawesome.io/cheatsheet/)
-[[码云]](https://gitee.com/)       [[微信UI]](https://gitee.com/)
+[[码云]](https://gitee.com/)       [[微信UI]](https://weui.io/#/)
