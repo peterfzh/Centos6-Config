@@ -2,9 +2,8 @@
 
 ### 版本控制类
 
-* `安装SVN的Shell管理`
+* `安装SVN的Shell`
 ```Shell
 [root@bogon /]yum install -y svn
-`创建SVN的信息`
-[root@bogon /]svnadmin create /var/svn
+
 ```
