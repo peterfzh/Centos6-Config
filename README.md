@@ -6,3 +6,7 @@
 
 ### 配置Apache+php+Mysql
 [APACHE PHP MYSQL配置管理](https://github.com/peterfzh/Centos6-Config/blob/master/Conf/%E9%85%8D%E7%BD%AEApache%2Bphp%2BMysql.md)
+
+
+### 防火墙的配置和管理
+[防火墙的配置和管理](https://github.com/peterfzh/Centos6-Config/blob/master/Conf/%E9%98%B2%E7%81%AB%E5%A2%99%E7%9A%84%E6%93%8D%E4%BD%9C%E7%AE%A1%E7%90%86.md)
