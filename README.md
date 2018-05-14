@@ -37,5 +37,11 @@ anon-access = none
 auth-access = write
 password-db = passwd
 authz-db = authz
+```
 
+### 配置Apache+php+Mysql
+* `一次性安装`
+
+```Shell
+yum -y install httpd php mysql mysql-server php-mysql httpd-manual mod_ssl mod_perl mod_auth_mysql php-mcrypt php-gd php-xml php-mbstring php-ldap php-pear php-xmlrpc mysql-connector-odbc mysql-devel libdbi-dbd-mysql
 ```
