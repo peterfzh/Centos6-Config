@@ -5,5 +5,5 @@
     * 安装
 >>>>> 
 ```Shell
-yum install -y svn
+[root@bogon /]yum install -y svn
 ```
