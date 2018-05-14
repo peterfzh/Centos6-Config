@@ -4,4 +4,5 @@
 >>>>> 
 ```Shell
 [root@bogon /]yum install -y svn // 安装SVN Shell
+[root@bogon /]svnadmin create /var/sn   //创建SVN的配置目录
 ```
