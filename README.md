@@ -4,6 +4,6 @@
   * SVN的安装和配置
     * 安装
 >>>>> 
-```Shell
-[root@bogon /]yum install -y svn
-```
+    ```Shell
+    [root@bogon /]yum install -y svn // 安装SVN
+    ```
