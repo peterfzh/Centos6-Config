@@ -56,5 +56,5 @@ service mysqld start  #[自启动mysqld服务]
 
 * `设置mysql数据库root帐号密码`
 ```Shell
-mysqladmin -u root password ‘新密码' #[引号内填密码]
+mysqladmin -u root password '新密码' #[引号内填密码]
 ```
