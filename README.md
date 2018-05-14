@@ -3,6 +3,7 @@
 * 版本控制类
   * SVN的安装和配置
     * 安装
->>>>>```Shell
+>>>>> 
+```Shell
 yum install -y svn
 ```
