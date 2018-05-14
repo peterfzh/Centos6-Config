@@ -34,6 +34,13 @@ service memcached start
 ### 6、测试服务端是否安装成功
 ```shell
 #如果提示lsof not found，使用yum install lsof即可
+
+php -m|grep memcache  
+2.$ lsof -i tcp:11211  
+3.COMMAND    PID      USER   FD   TYPE   DEVICE SIZE/OFF NODE NAME  
+4.memcached 3399 memcached   26u  IPv4 12677364      0t0  TCP *:memcache (LISTEN)  
+5.memcached 3399 memcached   27u  IPv6 12677365      0t0  TCP *:memcache (LISTEN)</span>  
+
 ```
 
 ### 7、接下来加载php memcache扩展
