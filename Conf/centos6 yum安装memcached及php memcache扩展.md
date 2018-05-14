@@ -32,7 +32,9 @@ service memcached start
 #到这里memcache服务端安装成功，测试安装是否成功
 
 ### 6、测试服务端是否安装成功
+```shell
 #如果提示lsof not found，使用yum install lsof即可
+```
 
 ### 7、接下来加载php memcache扩展
 找到php配置文件，一般使用yum默认安装在etc/目录下，如果没找到可以建立一个文件输出phpinfo搜索Configuration File可以查看到php.ini文件位置，开启memcache扩展extension=/usr/lib64/php/modules/memcache.so，重启php服务
