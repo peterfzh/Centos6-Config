@@ -12,4 +12,4 @@
 [[码云]](https://gitee.com/)       [[微信UI]](https://weui.io/#/)         [[H-ui前端框架官方网站]](http://www.h-ui.net/)
 
 ## 软件破解教程
-[[吾爱破解专用版ollydbg ]](https://www.52pojie.cn/thread-14986-1-1.html)
+[[吾爱破解专用版ollydbg ]](https://www.52pojie.cn/thread-14986-1-1.html)         [[破解教程]](http://blog.csdn.net/wincol/article/details/1595794)
